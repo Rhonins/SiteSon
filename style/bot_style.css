@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* PAGE BOTTOM */
+#pageBottom{
+	background: #666;
+	padding: 24px;
+	font-size: 12px;
+	color: #CCC;
+	text-align: center;
+}
